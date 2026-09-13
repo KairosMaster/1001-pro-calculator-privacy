@@ -1,6 +1,6 @@
 # 1001 Pro Calculators — privacy and support
 
-The published privacy policy and support page for **1001 Pro Calculators: All-in-1**
+The published privacy policy and support page for **1001 Pro Calculators and Tools**
 (Play: `com.calcverse.calcverse`; App Store: `com.calcverse.apple`). Hosted here
 because both stores require public URLs that load without a login.
 
