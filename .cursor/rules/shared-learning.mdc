@@ -1,0 +1,16 @@
+---
+description: Land project lessons in the repo so Claude Code and Cursor share one corpus
+alwaysApply: true
+---
+
+# Shared learning
+
+Durable project facts go in files both tools read — `CLAUDE.md`, `AGENTS.md`, and `.cursor/rules/*.mdc` — not in `~/.cursor/` or `~/.claude/`.
+
+Same claim in every copy. One concern per rule, under 50 lines. How you run git stays in your user rules.
+
+A sentence in `CLAUDE.md`, `AGENTS.md`, or a Cursor rule that the code makes false is deleted or rewritten in the same change.
+
+This repository publishes `index.html` and nothing else. Do not add docs, source, or a second copy of the policy. Do not edit `index.html` here.
+
+How a lesson climbs is `.cursor/rules/refinement-ladder.mdc`.
